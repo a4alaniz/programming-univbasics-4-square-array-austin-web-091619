@@ -1,4 +1,4 @@
-def square_array(numbers)
+def square_array(array)
   counter = 1
   while numbers[counter] do
     puts numbers[counter**2]
